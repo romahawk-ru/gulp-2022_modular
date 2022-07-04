@@ -1,0 +1,27 @@
+{
+  "name": "gulp-2022_modular",
+  "version": "1.0.0",
+  "description": "Modular",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romahawk-ru/gulp-2022_modular.git"
+  },
+  "author": "Romahawk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romahawk-ru/gulp-2022_modular/issues"
+  },
+  "homepage": "https://github.com/romahawk-ru/gulp-2022_modular#readme",
+  "devDependencies": {
+    "del": "^6.1.1",
+    "es5-ext": "0.10.53",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-replace": "^1.1.3"
+  }
+}
