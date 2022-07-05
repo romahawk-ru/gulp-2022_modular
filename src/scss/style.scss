@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+
+  span {
+    color: red;
+  }
+
+  background: url('@img/logo.png') 0 0 no-repeat;
+
+}
+
+@media (max-width: 768px) {
+  span {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 768px) {
+  span {
+    color: green;
+  }
+}
